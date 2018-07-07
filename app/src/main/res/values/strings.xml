@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Ajker Krishi</string>
-    <string name="info">Information</string>
-    <string name="tech">Horticulture</string>
-    <string name="contact">Contact</string>
-    <string name="Fisheries">Fisheries</string>
-    <string name="advice">Advice</string>
-    <string name="member">Member</string>
-    <string name="farming">Farming</string>
-    <string name="livestock">Livestock</string>
-    <string name="city">Urban Agriculture</string>
-    <string name="entrepreneur">Entrepreneur</string>
-    <string name="pest">Pesticides</string>
+    <string name="app_name">আজকের কৃষি</string>
+    <string name="info">কৃষি তথ্য</string>
+    <string name="tech">কৃষি প্রযুক্তি</string>
+    <string name="contact">যোগাযোগ</string>
+    <string name="Fisheries">মৎস্য সম্পদ</string>
+    <string name="advice">পরামর্শ নিন</string>
+    <string name="member">সদস্য হউন</string>
+    <string name="farming">চাষাবাদ</string>
+    <string name="livestock">প্রাণী সম্পদ</string>
+    <string name="city">ছাদ কৃষি</string>
+    <string name="entrepreneur">কৃষি উদ্যোক্তা</string>
+    <string name="pest">পোকামাকড় ও রোগবালাই</string>
 </resources>
